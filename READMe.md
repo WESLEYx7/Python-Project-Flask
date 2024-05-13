@@ -1,0 +1,1 @@
+*** Aplicação botando em prática meus conhecimentos em Flask ***
